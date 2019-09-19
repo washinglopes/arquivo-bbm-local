@@ -6,7 +6,7 @@ GEM
     ffi (1.9.10)
     multi_json (1.11.2)
     power_assert (0.2.4)
-    rubyzip (1.1.7)
+    rubyzip (1.2.4)
     selenium-webdriver (2.47.1)
       childprocess (~> 0.5)
       multi_json (~> 1.0)
